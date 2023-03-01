@@ -9,7 +9,7 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "react": "16.6.3",
-    "react-native": "0.58.3",
+    "react-native": "0.71.3",
     "react-native-game-engine": "^0.10.1",
     "react-native-svg": "^9.2.3"
   },
